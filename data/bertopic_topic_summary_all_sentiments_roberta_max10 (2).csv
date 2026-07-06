@@ -1,0 +1,28 @@
+sentiment,topic_id,keywords,document_count,Count,Name
+negatif,0,"bus, halte, rute, arah, nya, penumpang, menunggu, transjakarta, koridor, jalan",2640,2640,0_bus_halte_rute_arah
+negatif,1,"beroperasi, jak, menunggu, lama, menit, lewat, kok, gimana, arah, nya",1908,1908,1_beroperasi_jak_menunggu_lama
+negatif,2,"tap, out, in, tap in, tap out, kartu, kepotong, saldo, mesin, brt",450,450,2_tap_out_in_tap in
+negatif,3,"aplikasi, app, transjakarta, aplikasi transjakarta, kok, maps, apps, update, google, nya",209,209,3_aplikasi_app_transjakarta_aplikasi transjakarta
+negatif,4,"mikrotrans, mikrotrans nya, sekali kejadian, jak, kanan kiri, nya, budi luhur, luhur, budi, pake",17,17,4_mikrotrans_mikrotrans nya_sekali kejadian_jak
+negatif,5,"speaker, suara, volume, berisik, toa, lagu, sgt, keras, mb, petugas halte",11,11,5_speaker_suara_volume_berisik
+negatif,6,"3d, beroperasi, 3c, mode, taman kota, taman, buset lama, acnya nyala, dateng, kota",11,11,6_3d_beroperasi_3c_mode
+negatif,7,"hamil, ibu hamil, ibu, lansia, bangku, emak, lt, diperbaikin, tangga, ni",11,11,7_hamil_ibu hamil_ibu_lansia
+negatif,8,"toilet, kunci, halte, cililitan, pgc, pgc kok, cililitan pgc, penutupan, kira, kontak",10,10,8_toilet_kunci_halte_cililitan
+netral,0,"halte, rute, naik, koridor, bus, arah, halo, beroperasi, gimana, rutenya",4799,4799,0_halte_rute_naik_koridor
+netral,1,"beroperasi, jak, pagi, besok, halo, jadwal, terakhir, normal, malam, kan",1099,1099,1_beroperasi_jak_pagi_besok
+netral,2,"dm, cek dm, cek, oke, dm halo, halo, kirim, yaa, aku, dm dm",360,360,2_dm_cek dm_cek_oke
+netral,3,"kartu, tiket, saldo, tap, barang, gratis, emoney, pakai, nomor, pake",275,275,3_kartu_tiket_saldo_tap
+netral,4,"normal, beroperasi normal, beroperasi, 3f, 3f beroperasi, sekarang, normal sekarang, sekarang beroperasi, 2a, normal kan",70,70,4_normal_beroperasi normal_beroperasi_3f
+netral,5,"mikrotrans, qris, qris tap, tap, mikrotrans jak, pakai, jak, brt, pembayaran, naik mikrotrans",62,62,5_mikrotrans_qris_qris tap_tap
+netral,6,"update, updatenya, cctv nya, citeureup, terupdate, update nya, cctv, nya, isi, bulan",22,22,6_update_updatenya_cctv nya_citeureup
+netral,7,"bawa, ukuran, transjakarta bawa, 24, membawa, maksimal, naik, naik transjakarta, hour naik, diperbolehkan",17,17,7_bawa_ukuran_transjakarta bawa_24
+netral,8,"cfd, cfd besok, besok, tetap, pas cfd, beroperasi, selesai, tetap beroperasi, pas, beroperasi normal",16,16,8_cfd_cfd besok_besok_tetap
+positif,0,"baik, terimakasih, infonya, banyak, atas, informasinya, you, oke, thank, thank you",203,203,0_baik_terimakasih_infonya_banyak
+positif,1,"halte, naik, bus, rute, lebih, transjakarta, banyak, turun, arah, stasiun",181,181,1_halte_naik_bus_rute
+positif,2,"kota, transjakarta, liburan, mall, simak, anak, buat, ragunan, sahabat tije, sekaligus berkolaborasi",21,21,2_kota_transjakarta_liburan_mall
+positif,3,"tertawa, penumpang, pagi, hati, dompet, driver, ramah, sy, turun, tije",21,21,3_tertawa_penumpang_pagi_hati
+positif,4,"transjakarta, sukses, banyak transjakarta, trans, selalu, sehat, transjakarta banyak, sukses selalu, trans jkt, ambil",14,14,4_transjakarta_sukses_banyak transjakarta_trans
+positif,5,"sampah, buang, tempat sampah, hujan, bersih, halte, malam, semoga, tempat, buang sampah",10,10,5_sampah_buang_tempat sampah_hujan
+positif,6,"sehat, selalu, sehat selalu, jaga kesehatan, kesehatan, jaga, lancar selalu, buat infonya, menjawab sehat, menjawab",7,7,6_sehat_selalu_sehat selalu_jaga kesehatan
+positif,7,"jakarta, warga, ranah, pemkot, warga jakarta, ranah nya, provinsi, gua, sebelah, indonesia",6,6,7_jakarta_warga_ranah_pemkot
+positif,8,"weekend, 6b tracking, 6b, 6u, 5c weekend, 6v selalu, banding, 6u arah, 6v, banyakin bus",5,5,8_weekend_6b tracking_6b_6u
